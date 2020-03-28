@@ -43,31 +43,7 @@ class App extends Component {
         this.setState({fazermostrar: !visivel})
     }
 
-    /*
-    handleChange(i, event) {
-       let values = [...this.state.values];
-       values[i] = event.target.value;
-       this.setState({ values });
-       console.log(this.state.values)
-    }
-    
-    */
-
-
-    /*
-    atualizar = (valor) => {
-        this.setState({
-           campos: [
-              {nome: valor.target.value},
-              {sexo: valor.target.value},
-              {idade: valor.target.value},
-              {cidade: valor.target.value},
-           ]
-         }
-        )
-    }
-    */
-   
+       
     render() {
 
           let elementos = null
