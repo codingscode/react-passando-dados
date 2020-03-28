@@ -1,0 +1,11 @@
+.usar {
+    display: flex;
+    align-items: center;
+    
+}
+
+.usar2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

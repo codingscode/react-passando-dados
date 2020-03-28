@@ -1,0 +1,13 @@
+.aplicar {
+    width: 30%;
+    height: 500px;
+    background-color: rgb(3, 138, 3);
+    margin: 80px 2px 30px 50px;
+    padding-left: 30px;
+    border: solid 4px rgb(248, 206, 150);
+    border-radius: 20px;
+    color: rgb(250, 250, 250);
+}
+
+
+

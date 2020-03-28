@@ -1,0 +1,22 @@
+.moldura {
+    width: 30%;
+    height: 500px;
+    background-color: rgb(252, 252, 215);
+    margin: 80px 2px 30px 50px;
+    padding-left: 30px;
+    /*color: solid 6px black;*/
+    border: solid 1px rgb(131, 131, 212);
+    border-radius: 20px;
+}
+
+input, div, button {
+    margin-top: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+}
